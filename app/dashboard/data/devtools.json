@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "Visual Studio Code",
+    "description": "Free, open-source code editor from Microsoft with extensive extension marketplace, integrated terminal, and powerful debugging tools loved by developers worldwide.",
+    "link": "https://code.visualstudio.com",
+    "icon": "💻",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Cursor",
+    "description": "AI-first code editor built on VS Code that helps developers write, edit, and understand code faster using powerful language models.",
+    "link": "https://cursor.com",
+    "icon": "🖱️",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Sublime Text",
+    "description": "Sophisticated cross-platform text editor known for speed, beautiful interface, and powerful features like multiple selections and command palette navigation. Trusted by professional developers building modern software worldwide.",
+    "link": "https://www.sublimetext.com",
+    "icon": "📝",
+    "category": "Code Editors"
+  },
+  {
+    "name": "JetBrains IntelliJ IDEA",
+    "description": "Powerful Java IDE offering intelligent code completion, advanced refactoring, deep static analysis, and integrated developer tools for productive coding. Trusted by professional developers building modern software worldwide.",
+    "link": "https://www.jetbrains.com/idea",
+    "icon": "🧠",
+    "category": "Code Editors"
+  },
+  {
+    "name": "WebStorm",
+    "description": "JetBrains IDE built specifically for JavaScript, TypeScript, and modern web frameworks with smart assistance and integrated developer tools. Trusted by professional developers building modern software worldwide.",
+    "link": "https://www.jetbrains.com/webstorm",
+    "icon": "🌐",
+    "category": "Code Editors"
+  },
+  {
+    "name": "PyCharm",
+    "description": "Professional Python IDE by JetBrains with intelligent code assistance, scientific tooling, web framework support, and integrated debugging capabilities. Trusted by professional developers building modern software worldwide.",
+    "link": "https://www.jetbrains.com/pycharm",
+    "icon": "🐍",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Neovim",
+    "description": "Hyperextensible Vim-based text editor focused on extensibility and usability, popular for terminal-based development workflows and customization. Trusted by professional developers building modern software worldwide.",
+    "link": "https://neovim.io",
+    "icon": "⌨️",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Zed",
+    "description": "High-performance multiplayer code editor built in Rust by the creators of Atom, optimized for speed and real-time collaboration. Trusted by professional developers building modern software worldwide.",
+    "link": "https://zed.dev",
+    "icon": "⚡",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Atom",
+    "description": "Hackable text editor originally developed by GitHub, designed to be deeply customizable while still approachable using familiar web technologies. Trusted by professional developers building modern software worldwide.",
+    "link": "https://atom-editor.cc",
+    "icon": "⚛️",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Emacs",
+    "description": "Extensible, customizable, free text editor with an interpreter for Emacs Lisp, beloved for its powerful editing modes and longevity. Trusted by professional developers building modern software worldwide.",
+    "link": "https://www.gnu.org/software/emacs",
+    "icon": "🦬",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Visual Studio",
+    "description": "Microsoft's full-featured IDE for building applications across .NET, C++, Python, and more with debugging, profiling, and team tools. Trusted by professional developers building modern software worldwide.",
+    "link": "https://visualstudio.microsoft.com",
+    "icon": "🟣",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Xcode",
+    "description": "Apple's integrated development environment for creating apps across iOS, macOS, watchOS, and tvOS with Swift and Objective-C support. Trusted by professional developers building modern software worldwide.",
+    "link": "https://developer.apple.com/xcode",
+    "icon": "🍎",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Android Studio",
+    "description": "Official IDE for Android development built on IntelliJ, providing emulators, layout editors, profilers, and deep Gradle build integration. Trusted by professional developers building modern software worldwide.",
+    "link": "https://developer.android.com/studio",
+    "icon": "🤖",
+    "category": "Code Editors"
+  },
+  {
+    "name": "Replit",
+    "description": "Browser-based collaborative IDE supporting dozens of languages, instant deployments, and AI assistance making coding accessible from any device. Trusted by professional developers building modern software worldwide.",
+    "link": "https://replit.com",
+    "icon": "🔁",
+    "category": "Code Editors"
+  },
+  {
+    "name": "CodeSandbox",
+    "description": "Online development environment for rapid web prototyping, supporting React, Vue, Angular, and Node.js with instant collaboration and sharing. Trusted by professional developers building modern software worldwide.",
+    "link": "https://codesandbox.io",
+    "icon": "📦",
+    "category": "Code Editors"
+  },
+  {
+    "name": "GitHub",
+    "description": "World's largest code hosting platform built on Git, providing collaboration, pull requests, Actions for CI/CD, and issue tracking for teams.",
+    "link": "https://github.com",
+    "icon": "🐙",
+    "category": "Version Control"
+  },
+  {
+    "name": "GitLab",
+    "description": "Complete DevOps platform offering Git repositories, CI/CD pipelines, security scanning, and project management in a single integrated application. Widely adopted by software teams collaborating at scale.",
+    "link": "https://gitlab.com",
+    "icon": "🦊",
+    "category": "Version Control"
+  },
+  {
+    "name": "Bitbucket",
+    "description": "Atlassian's Git repository management solution integrated with Jira and Trello, offering pipelines, code review, and deployment workflows. Widely adopted by software teams collaborating at scale.",
+    "link": "https://bitbucket.org",
+    "icon": "🪣",
+    "category": "Version Control"
+  },
+  {
+    "name": "Git",
+    "description": "Free, open-source distributed version control system designed to handle projects of any size with speed, efficiency, and powerful branching. Widely adopted by software teams collaborating at scale.",
+    "link": "https://git-scm.com",
+    "icon": "🌿",
+    "category": "Version Control"
+  },
+  {
+    "name": "Gitea",
+    "description": "Self-hosted, lightweight Git service written in Go that allows teams to run their own code collaboration platform with minimal resources.",
+    "link": "https://gitea.io",
+    "icon": "🍵",
+    "category": "Version Control"
+  },
+  {
+    "name": "SourceTree",
+    "description": "Free Git client by Atlassian with a polished visual interface for managing repositories, branches, and complex Git workflows on desktop.",
+    "link": "https://www.sourcetreeapp.com",
+    "icon": "🌳",
+    "category": "Version Control"
+  },
+  {
+    "name": "GitKraken",
+    "description": "Cross-platform Git GUI client with intuitive visualizations, merge conflict editor, and team collaboration features designed to simplify Git workflows. Widely adopted by software teams collaborating at scale.",
+    "link": "https://www.gitkraken.com",
+    "icon": "🐉",
+    "category": "Version Control"
+  },
+  {
+    "name": "Sourcegraph",
+    "description": "Universal code search and intelligence platform allowing developers to navigate, understand, and automate changes across massive codebases efficiently. Widely adopted by software teams collaborating at scale.",
+    "link": "https://sourcegraph.com",
+    "icon": "🔍",
+    "category": "Version Control"
+  },
+  {
+    "name": "Codeberg",
+    "description": "Non-profit, community-driven Git hosting platform powered by Gitea, providing free repositories for free and open-source software projects. Widely adopted by software teams collaborating at scale.",
+    "link": "https://codeberg.org",
+    "icon": "⛰️",
+    "category": "Version Control"
+  },
+  {
+    "name": "GitHub Desktop",
+    "description": "Friendly desktop Git client from GitHub that simplifies common workflows like commits, branches, and pull requests for developers new to Git.",
+    "link": "https://desktop.github.com",
+    "icon": "🖥️",
+    "category": "Version Control"
+  },
+  {
+    "name": "Vercel",
+    "description": "Frontend cloud platform optimized for Next.js and modern frameworks, providing instant global deployments, preview URLs, and edge functions. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://vercel.com",
+    "icon": "▲",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Netlify",
+    "description": "All-in-one platform for automating modern web projects with continuous deployment from Git, serverless functions, and global CDN delivery. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://www.netlify.com",
+    "icon": "🌐",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Cloudflare Pages",
+    "description": "JAMstack platform for frontend developers offering unlimited bandwidth, global CDN, preview deployments, and integrated edge function support. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://pages.cloudflare.com",
+    "icon": "☁️",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "AWS",
+    "description": "Amazon's comprehensive cloud platform offering compute, storage, databases, AI, and hundreds of services trusted by enterprises worldwide. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://aws.amazon.com",
+    "icon": "📦",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Google Cloud Platform",
+    "description": "Google's suite of cloud computing services running on the same infrastructure as Google Search, YouTube, and other consumer products. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://cloud.google.com",
+    "icon": "🌩️",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Microsoft Azure",
+    "description": "Microsoft's cloud platform offering hundreds of services across compute, AI, databases, and DevOps for building enterprise applications globally. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://azure.microsoft.com",
+    "icon": "🔷",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "DigitalOcean",
+    "description": "Developer-friendly cloud provider offering simple virtual servers, managed databases, Kubernetes, and app platforms with predictable pricing. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://www.digitalocean.com",
+    "icon": "🌊",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Heroku",
+    "description": "Cloud platform-as-a-service that lets developers build, run, and operate applications entirely in the cloud without managing infrastructure. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://www.heroku.com",
+    "icon": "💜",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Railway",
+    "description": "Modern infrastructure platform that lets developers deploy applications, databases, and services with simple Git-based workflows and instant provisioning. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://railway.app",
+    "icon": "🚂",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Render",
+    "description": "Unified cloud platform to build and run apps, static sites, and databases with free TLS, global CDN, and auto-deploys from Git.",
+    "link": "https://render.com",
+    "icon": "🎨",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Fly.io",
+    "description": "Platform for running full-stack apps and databases close to users by deploying lightweight Docker containers across global edge regions. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://fly.io",
+    "icon": "🪰",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Linode",
+    "description": "Akamai-owned cloud provider offering virtual machines, managed Kubernetes, object storage, and developer tools with transparent flat-rate pricing. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://www.linode.com",
+    "icon": "🟢",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Hetzner",
+    "description": "German cloud provider offering high-performance dedicated and virtual servers at competitive pricing with data centers in Europe and the US.",
+    "link": "https://www.hetzner.com",
+    "icon": "🇩🇪",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Cloudflare Workers",
+    "description": "Serverless platform running JavaScript and WebAssembly functions on Cloudflare's global edge network with near-zero cold starts and low latency. Trusted by startups and enterprises shipping production apps.",
+    "link": "https://workers.cloudflare.com",
+    "icon": "⚙️",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Firebase Hosting",
+    "description": "Google's production-grade web hosting for developers, providing fast global CDN, free SSL certificates, and instant rollbacks for static and dynamic content.",
+    "link": "https://firebase.google.com/products/hosting",
+    "icon": "🔥",
+    "category": "Hosting & Deployment"
+  },
+  {
+    "name": "Figma",
+    "description": "Collaborative interface design tool running entirely in the browser, enabling real-time multiplayer design, prototyping, and developer handoff workflows. Loved by product designers crafting modern digital experiences.",
+    "link": "https://www.figma.com",
+    "icon": "🎨",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Sketch",
+    "description": "Vector-based design toolkit for macOS focused on digital product design, offering symbols, libraries, and a vibrant plugin ecosystem. Loved by product designers crafting modern digital experiences.",
+    "link": "https://www.sketch.com",
+    "icon": "💎",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Adobe XD",
+    "description": "Adobe's vector-based UX design tool for creating wireframes, prototypes, and design systems for websites and mobile applications. Loved by product designers crafting modern digital experiences.",
+    "link": "https://www.adobe.com/products/xd.html",
+    "icon": "🅧",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Framer",
+    "description": "Design and publish modern websites visually with real components, animations, and interactions powered by React under the hood. Loved by product designers crafting modern digital experiences.",
+    "link": "https://www.framer.com",
+    "icon": "🖼️",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Penpot",
+    "description": "Open-source design and prototyping platform built for cross-domain teams using web standards like SVG for true designer-developer collaboration. Loved by product designers crafting modern digital experiences.",
+    "link": "https://penpot.app",
+    "icon": "✏️",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Canva",
+    "description": "Web-based graphic design platform with drag-and-drop tools and thousands of templates for creating social posts, presentations, and marketing assets. Loved by product designers crafting modern digital experiences.",
+    "link": "https://www.canva.com",
+    "icon": "🖌️",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Tailwind UI",
+    "description": "Beautifully designed, expertly crafted components and templates built by the makers of Tailwind CSS for shipping faster. Loved by product designers crafting modern digital experiences.",
+    "link": "https://tailwindui.com",
+    "icon": "💨",
+    "category": "Design & UI"
+  },
+  {
+    "name": "shadcn/ui",
+    "description": "Beautifully designed components built using Radix UI and Tailwind CSS that you copy directly into your projects and customize freely.",
+    "link": "https://ui.shadcn.com",
+    "icon": "🧩",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Material UI",
+    "description": "Comprehensive React component library implementing Google's Material Design system, providing accessible and customizable building blocks for web applications. Loved by product designers crafting modern digital experiences.",
+    "link": "https://mui.com",
+    "icon": "📐",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Chakra UI",
+    "description": "Simple, modular, accessible React component library that gives developers all the building blocks needed to ship apps with speed. Loved by product designers crafting modern digital experiences.",
+    "link": "https://chakra-ui.com",
+    "icon": "🪷",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Storybook",
+    "description": "Frontend workshop for building UI components and pages in isolation, streamlining development, testing, and documentation across major frameworks. Loved by product designers crafting modern digital experiences.",
+    "link": "https://storybook.js.org",
+    "icon": "📚",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Heroicons",
+    "description": "Beautiful hand-crafted SVG icons by the makers of Tailwind CSS, available as React and Vue components in multiple styles. Loved by product designers crafting modern digital experiences.",
+    "link": "https://heroicons.com",
+    "icon": "⭐",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Lucide",
+    "description": "Open-source community-driven icon library forked from Feather Icons offering thousands of consistent, customizable SVG icons for modern interfaces. Loved by product designers crafting modern digital experiences.",
+    "link": "https://lucide.dev",
+    "icon": "🪶",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Unsplash",
+    "description": "Free high-resolution stock photography platform where photographers share images that developers and designers can use commercially without attribution. Loved by product designers crafting modern digital experiences.",
+    "link": "https://unsplash.com",
+    "icon": "📸",
+    "category": "Design & UI"
+  },
+  {
+    "name": "Coolors",
+    "description": "Fast color scheme generator allowing designers to create, save, and explore palettes, gradients, and contrast combinations in seconds. Loved by product designers crafting modern digital experiences.",
+    "link": "https://coolors.co",
+    "icon": "🌈",
+    "category": "Design & UI"
+  },
+  {
+    "name": "PostgreSQL",
+    "description": "Powerful open-source object-relational database known for reliability, robust feature set, extensibility, and standards compliance across enterprise workloads. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://www.postgresql.org",
+    "icon": "🐘",
+    "category": "Database"
+  },
+  {
+    "name": "MySQL",
+    "description": "World's most popular open-source relational database, widely used to power web applications, content management systems, and e-commerce sites. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://www.mysql.com",
+    "icon": "🐬",
+    "category": "Database"
+  },
+  {
+    "name": "MongoDB",
+    "description": "Document-oriented NoSQL database designed for scalability and developer agility, storing data in flexible JSON-like documents with dynamic schemas. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://www.mongodb.com",
+    "icon": "🍃",
+    "category": "Database"
+  },
+  {
+    "name": "Redis",
+    "description": "In-memory data structure store used as a database, cache, and message broker, providing sub-millisecond latency for high-performance applications. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://redis.io",
+    "icon": "🔴",
+    "category": "Database"
+  },
+  {
+    "name": "Supabase",
+    "description": "Open-source Firebase alternative providing Postgres database, authentication, instant APIs, edge functions, realtime, and storage for fast app development. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://supabase.com",
+    "icon": "⚡",
+    "category": "Database"
+  },
+  {
+    "name": "Firebase",
+    "description": "Google's backend-as-a-service platform offering realtime database, authentication, hosting, cloud functions, and analytics for mobile and web apps. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://firebase.google.com",
+    "icon": "🔥",
+    "category": "Database"
+  },
+  {
+    "name": "PlanetScale",
+    "description": "Serverless MySQL-compatible database platform built on Vitess offering non-blocking schema changes, branching, and massive horizontal scalability. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://planetscale.com",
+    "icon": "🪐",
+    "category": "Database"
+  },
+  {
+    "name": "Neon",
+    "description": "Serverless Postgres database with branching, autoscaling, and bottomless storage designed for modern development workflows and rapid prototyping. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://neon.tech",
+    "icon": "💚",
+    "category": "Database"
+  },
+  {
+    "name": "SQLite",
+    "description": "Self-contained, serverless, zero-configuration SQL database engine embedded in countless applications and the most deployed database in the world. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://www.sqlite.org",
+    "icon": "💾",
+    "category": "Database"
+  },
+  {
+    "name": "Prisma",
+    "description": "Next-generation Node.js and TypeScript ORM providing type-safe database access, automated migrations, and an intuitive data modeling language. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://www.prisma.io",
+    "icon": "🔺",
+    "category": "Database"
+  },
+  {
+    "name": "Drizzle ORM",
+    "description": "Lightweight TypeScript ORM with a familiar SQL-like syntax, full type safety, and edge-runtime compatibility for modern serverless deployments. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://orm.drizzle.team",
+    "icon": "💧",
+    "category": "Database"
+  },
+  {
+    "name": "DuckDB",
+    "description": "In-process analytical database management system designed for fast OLAP queries on local files including Parquet, CSV, and JSON. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://duckdb.org",
+    "icon": "🦆",
+    "category": "Database"
+  },
+  {
+    "name": "Cassandra",
+    "description": "Highly scalable distributed NoSQL database designed to handle massive structured data across many commodity servers without single points of failure.",
+    "link": "https://cassandra.apache.org",
+    "icon": "🏛️",
+    "category": "Database"
+  },
+  {
+    "name": "CockroachDB",
+    "description": "Distributed SQL database providing strong consistency, horizontal scalability, and survivability across regions for global, transactional workloads. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://www.cockroachlabs.com",
+    "icon": "🪳",
+    "category": "Database"
+  },
+  {
+    "name": "Elasticsearch",
+    "description": "Distributed, RESTful search and analytics engine built on Lucene, used for full-text search, log aggregation, and observability at scale. Trusted by engineering teams powering data-driven applications today.",
+    "link": "https://www.elastic.co/elasticsearch",
+    "icon": "🔎",
+    "category": "Database"
+  },
+  {
+    "name": "Postman",
+    "description": "Comprehensive API platform for building, testing, documenting, and monitoring APIs with collaboration features used by millions of developers globally. Used by backend engineers building reliable production APIs.",
+    "link": "https://www.postman.com",
+    "icon": "📮",
+    "category": "API Testing"
+  },
+  {
+    "name": "Insomnia",
+    "description": "Open-source API client for designing, debugging, and testing REST, GraphQL, and gRPC APIs with a clean, fast desktop interface. Used by backend engineers building reliable production APIs.",
+    "link": "https://insomnia.rest",
+    "icon": "😴",
+    "category": "API Testing"
+  },
+  {
+    "name": "Bruno",
+    "description": "Fast, Git-friendly open-source API client storing collections as plain text files for version control and offline-first API workflows. Used by backend engineers building reliable production APIs.",
+    "link": "https://www.usebruno.com",
+    "icon": "🐶",
+    "category": "API Testing"
+  },
+  {
+    "name": "Hoppscotch",
+    "description": "Lightweight, web-based open-source API development ecosystem providing fast REST, GraphQL, and WebSocket testing directly in the browser. Used by backend engineers building reliable production APIs.",
+    "link": "https://hoppscotch.io",
+    "icon": "🐰",
+    "category": "API Testing"
+  },
+  {
+    "name": "Swagger",
+    "description": "Open-source toolset for designing, building, and documenting REST APIs using the OpenAPI specification with interactive API exploration interfaces. Used by backend engineers building reliable production APIs.",
+    "link": "https://swagger.io",
+    "icon": "📘",
+    "category": "API Testing"
+  },
+  {
+    "name": "Apidog",
+    "description": "All-in-one collaborative API development platform combining design, debugging, automated testing, mocking, and documentation for full API lifecycle management. Used by backend engineers building reliable production APIs.",
+    "link": "https://apidog.com",
+    "icon": "🐕",
+    "category": "API Testing"
+  },
+  {
+    "name": "Paw",
+    "description": "Full-featured native API testing tool for macOS that helps developers build HTTP requests, inspect responses, and generate client code. Used by backend engineers building reliable production APIs.",
+    "link": "https://paw.cloud",
+    "icon": "🐾",
+    "category": "API Testing"
+  },
+  {
+    "name": "Thunder Client",
+    "description": "Lightweight REST API client extension for Visual Studio Code, offering a clean interface and Git-friendly collections for testing endpoints. Used by backend engineers building reliable production APIs.",
+    "link": "https://www.thunderclient.com",
+    "icon": "⚡",
+    "category": "API Testing"
+  },
+  {
+    "name": "ReadMe",
+    "description": "Developer hub platform for creating beautiful, interactive API documentation with auto-generated SDKs, API logs, and personalized developer experiences. Used by backend engineers building reliable production APIs.",
+    "link": "https://readme.com",
+    "icon": "📖",
+    "category": "API Testing"
+  },
+  {
+    "name": "Mockoon",
+    "description": "Free open-source desktop application that lets developers design and run mock REST APIs locally in seconds without any coding required.",
+    "link": "https://mockoon.com",
+    "icon": "🦝",
+    "category": "API Testing"
+  },
+  {
+    "name": "ChatGPT",
+    "description": "OpenAI's conversational AI assistant capable of answering questions, generating code, writing content, and reasoning through complex multi-step tasks. Widely adopted by developers building intelligent modern applications.",
+    "link": "https://chat.openai.com",
+    "icon": "🤖",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Claude",
+    "description": "Anthropic's AI assistant focused on safety and helpful reasoning, excelling at long-context analysis, coding tasks, and nuanced conversational responses. Widely adopted by developers building intelligent modern applications.",
+    "link": "https://claude.ai",
+    "icon": "🧠",
+    "category": "AI Tools"
+  },
+  {
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer trained on billions of lines of code that suggests entire functions and lines directly inside your editor.",
+    "link": "https://github.com/features/copilot",
+    "icon": "✈️",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Gemini",
+    "description": "Google's multimodal AI assistant capable of reasoning over text, images, code, and audio, integrated across Google Workspace and developer tools.",
+    "link": "https://gemini.google.com",
+    "icon": "♊",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Perplexity",
+    "description": "AI-powered answer engine that provides direct, cited responses to questions by searching the web and synthesizing information from sources. Widely adopted by developers building intelligent modern applications.",
+    "link": "https://www.perplexity.ai",
+    "icon": "🔮",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Hugging Face",
+    "description": "Open-source AI community and platform hosting hundreds of thousands of models, datasets, and demos for natural language and machine learning.",
+    "link": "https://huggingface.co",
+    "icon": "🤗",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Midjourney",
+    "description": "AI-powered text-to-image generation service producing high-quality artistic visuals through a Discord-based interface and web gallery. Widely adopted by developers building intelligent modern applications.",
+    "link": "https://www.midjourney.com",
+    "icon": "🎨",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Lovable",
+    "description": "AI app builder that transforms natural language prompts into full-stack web applications with live previews, instant editing, and deployment. Widely adopted by developers building intelligent modern applications.",
+    "link": "https://lovable.dev",
+    "icon": "💖",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Tabnine",
+    "description": "AI code completion assistant trained on permissively licensed code, offering personalized suggestions across many languages and popular IDEs. Widely adopted by developers building intelligent modern applications.",
+    "link": "https://www.tabnine.com",
+    "icon": "📑",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Codeium",
+    "description": "Free AI-powered code completion, chat, and search toolkit supporting more than seventy languages and integrating with most popular code editors.",
+    "link": "https://codeium.com",
+    "icon": "🔯",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Replicate",
+    "description": "Platform for running open-source machine learning models in the cloud via simple HTTP APIs without managing GPU infrastructure or dependencies.",
+    "link": "https://replicate.com",
+    "icon": "♻️",
+    "category": "AI Tools"
+  },
+  {
+    "name": "OpenRouter",
+    "description": "Unified API gateway providing access to hundreds of language models from multiple providers with smart routing, fallbacks, and consolidated billing.",
+    "link": "https://openrouter.ai",
+    "icon": "🛣️",
+    "category": "AI Tools"
+  },
+  {
+    "name": "LangChain",
+    "description": "Framework for developing applications powered by large language models, providing composable abstractions for chains, agents, memory, and retrieval. Widely adopted by developers building intelligent modern applications.",
+    "link": "https://www.langchain.com",
+    "icon": "🦜",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Ollama",
+    "description": "Tool for running large language models locally on your own machine with a simple command-line interface and growing model library.",
+    "link": "https://ollama.com",
+    "icon": "🦙",
+    "category": "AI Tools"
+  },
+  {
+    "name": "v0",
+    "description": "Vercel's generative UI tool that creates React components and full pages from natural language prompts, ready to copy into projects.",
+    "link": "https://v0.dev",
+    "icon": "✨",
+    "category": "AI Tools"
+  },
+  {
+    "name": "Docker",
+    "description": "Containerization platform letting developers package applications with their dependencies into portable containers that run consistently anywhere. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://www.docker.com",
+    "icon": "🐳",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Kubernetes",
+    "description": "Open-source container orchestration system automating deployment, scaling, and management of containerized applications across clusters of machines. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://kubernetes.io",
+    "icon": "☸️",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Terraform",
+    "description": "Infrastructure-as-code tool by HashiCorp that lets engineers define, provision, and manage cloud resources across providers using declarative configuration. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://www.terraform.io",
+    "icon": "🏗️",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Ansible",
+    "description": "Open-source automation platform that simplifies provisioning, configuration management, and application deployment using human-readable YAML playbooks without agents. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://www.ansible.com",
+    "icon": "🅰️",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Jenkins",
+    "description": "Leading open-source automation server providing hundreds of plugins to support building, deploying, and automating software projects of any kind. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://www.jenkins.io",
+    "icon": "🤵",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "CircleCI",
+    "description": "Cloud-based continuous integration and delivery platform automating build, test, and deployment workflows for software teams of every size. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://circleci.com",
+    "icon": "⭕",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "GitHub Actions",
+    "description": "CI/CD automation platform built into GitHub repositories, enabling teams to build, test, and deploy code with custom workflows triggered by events.",
+    "link": "https://github.com/features/actions",
+    "icon": "🎬",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Travis CI",
+    "description": "Hosted continuous integration service used to build and test software projects hosted on GitHub and Bitbucket using simple YAML configuration.",
+    "link": "https://www.travis-ci.com",
+    "icon": "🚧",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "ArgoCD",
+    "description": "Declarative GitOps continuous delivery tool for Kubernetes that automates deployment of applications by syncing manifests stored in Git repositories. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://argo-cd.readthedocs.io",
+    "icon": "🐙",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Podman",
+    "description": "Daemonless, open-source container engine for developing, managing, and running OCI containers and pods as a drop-in Docker alternative. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://podman.io",
+    "icon": "🦭",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Helm",
+    "description": "Package manager for Kubernetes that helps teams define, install, and upgrade complex applications using reusable, versioned charts and templates. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://helm.sh",
+    "icon": "⛵",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Vagrant",
+    "description": "HashiCorp tool for building and managing portable virtual machine environments, providing reproducible development setups across operating systems and teams. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://www.vagrantup.com",
+    "icon": "🧳",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Pulumi",
+    "description": "Modern infrastructure-as-code platform that lets developers define cloud resources using familiar programming languages like TypeScript, Python, and Go. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://www.pulumi.com",
+    "icon": "🌈",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Nomad",
+    "description": "HashiCorp's flexible workload orchestrator that deploys and manages containers and non-containerized applications across on-prem and cloud environments. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://www.nomadproject.io",
+    "icon": "🏕️",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Portainer",
+    "description": "Lightweight management UI that lets teams easily manage Docker, Swarm, Kubernetes, and Nomad environments through a clean web interface. Trusted by platform engineers running production infrastructure globally.",
+    "link": "https://www.portainer.io",
+    "icon": "🚢",
+    "category": "DevOps & Containers"
+  },
+  {
+    "name": "Notion",
+    "description": "All-in-one workspace combining notes, documents, wikis, databases, and project management to help teams centralize knowledge and collaborate. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://www.notion.so",
+    "icon": "📝",
+    "category": "Productivity"
+  },
+  {
+    "name": "Obsidian",
+    "description": "Powerful knowledge management app built on local Markdown files with bidirectional linking, graph view, and a vast plugin ecosystem. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://obsidian.md",
+    "icon": "💎",
+    "category": "Productivity"
+  },
+  {
+    "name": "Raycast",
+    "description": "Blazing-fast Mac launcher that boosts productivity with built-in tools, extensions, AI commands, and quick access to apps and snippets. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://www.raycast.com",
+    "icon": "🚀",
+    "category": "Productivity"
+  },
+  {
+    "name": "Todoist",
+    "description": "Cross-platform task manager helping individuals and teams organize work and life with natural-language input, projects, labels, and reminders. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://todoist.com",
+    "icon": "✅",
+    "category": "Productivity"
+  },
+  {
+    "name": "Trello",
+    "description": "Visual project management tool using boards, lists, and cards to help teams organize tasks and collaborate using flexible Kanban workflows.",
+    "link": "https://trello.com",
+    "icon": "📋",
+    "category": "Productivity"
+  },
+  {
+    "name": "Linear",
+    "description": "Streamlined issue tracking and project management tool built for high-performance software teams, with keyboard-first design and beautiful interfaces. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://linear.app",
+    "icon": "📐",
+    "category": "Productivity"
+  },
+  {
+    "name": "Jira",
+    "description": "Atlassian's powerful issue and project tracking tool used by agile software teams to plan, track, and release software at scale.",
+    "link": "https://www.atlassian.com/software/jira",
+    "icon": "🟦",
+    "category": "Productivity"
+  },
+  {
+    "name": "Asana",
+    "description": "Work management platform helping teams orchestrate work from daily tasks to strategic initiatives with projects, timelines, and automation rules. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://asana.com",
+    "icon": "🧘",
+    "category": "Productivity"
+  },
+  {
+    "name": "ClickUp",
+    "description": "All-in-one productivity platform combining tasks, docs, goals, and chat to replace multiple work apps with a single customizable workspace. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://clickup.com",
+    "icon": "🆙",
+    "category": "Productivity"
+  },
+  {
+    "name": "Toggl Track",
+    "description": "Simple, flexible time tracking tool used by freelancers and teams to log work hours, generate reports, and analyze productivity patterns.",
+    "link": "https://toggl.com/track",
+    "icon": "⏱️",
+    "category": "Productivity"
+  },
+  {
+    "name": "RescueTime",
+    "description": "Automatic time-tracking software that runs in the background to show where you spend time and help build productive digital habits.",
+    "link": "https://www.rescuetime.com",
+    "icon": "⏰",
+    "category": "Productivity"
+  },
+  {
+    "name": "Alfred",
+    "description": "Award-winning macOS productivity app that boosts efficiency with hotkeys, keywords, text expansion, workflows, and seamless application launching. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://www.alfredapp.com",
+    "icon": "🎩",
+    "category": "Productivity"
+  },
+  {
+    "name": "Things 3",
+    "description": "Award-winning personal task manager for Apple devices with an elegant interface focused on capturing, organizing, and completing daily work. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://culturedcode.com/things",
+    "icon": "⭐",
+    "category": "Productivity"
+  },
+  {
+    "name": "Bear",
+    "description": "Beautiful, flexible writing and note-taking app for Apple devices using Markdown with hashtag organization, cross-note links, and iCloud sync. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://bear.app",
+    "icon": "🐻",
+    "category": "Productivity"
+  },
+  {
+    "name": "Logseq",
+    "description": "Privacy-first, open-source knowledge management platform with outliner-based note-taking, bidirectional linking, and local-first plain text storage. Loved by individuals and teams shipping focused, meaningful work.",
+    "link": "https://logseq.com",
+    "icon": "📓",
+    "category": "Productivity"
+  },
+  {
+    "name": "React",
+    "description": "Declarative JavaScript library for building user interfaces with reusable components, maintained by Meta and the world's largest frontend ecosystem. Widely adopted across the modern web development ecosystem.",
+    "link": "https://react.dev",
+    "icon": "⚛️",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Next.js",
+    "description": "React framework by Vercel offering server-side rendering, static generation, file-based routing, and edge runtime for full-stack web applications. Widely adopted across the modern web development ecosystem.",
+    "link": "https://nextjs.org",
+    "icon": "▲",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Vue.js",
+    "description": "Progressive JavaScript framework for building user interfaces, designed to be incrementally adoptable with reactive data binding and composable components. Widely adopted across the modern web development ecosystem.",
+    "link": "https://vuejs.org",
+    "icon": "🟩",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Angular",
+    "description": "Google's TypeScript-first platform for building scalable, enterprise web applications with built-in dependency injection, routing, forms, and powerful CLI tooling. Widely adopted across the modern web development ecosystem.",
+    "link": "https://angular.dev",
+    "icon": "🅰️",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Svelte",
+    "description": "Radical compile-time JavaScript framework that shifts the work into a build step, producing highly optimized vanilla JavaScript with minimal runtime overhead.",
+    "link": "https://svelte.dev",
+    "icon": "🧡",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "SvelteKit",
+    "description": "Full-stack application framework for Svelte providing routing, server-side rendering, adapters for any platform, and developer-friendly conventions. Widely adopted across the modern web development ecosystem.",
+    "link": "https://kit.svelte.dev",
+    "icon": "⚙️",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Nuxt",
+    "description": "Intuitive Vue framework providing server-side rendering, file-based routing, auto-imports, and modules to build performant full-stack web applications. Widely adopted across the modern web development ecosystem.",
+    "link": "https://nuxt.com",
+    "icon": "💚",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Astro",
+    "description": "Web framework for content-driven sites that ships zero JavaScript by default and supports any UI framework through its islands architecture.",
+    "link": "https://astro.build",
+    "icon": "🚀",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Remix",
+    "description": "Full-stack web framework built on web fundamentals leveraging native browser APIs, nested routing, and progressive enhancement for fast user experiences.",
+    "link": "https://remix.run",
+    "icon": "💿",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "TanStack",
+    "description": "Collection of headless, type-safe utilities like Query, Router, and Table for building powerful data-driven applications across frameworks. Widely adopted across the modern web development ecosystem.",
+    "link": "https://tanstack.com",
+    "icon": "🧱",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Express",
+    "description": "Fast, unopinionated, minimalist web framework for Node.js providing a robust set of features for building web and mobile APIs. Widely adopted across the modern web development ecosystem.",
+    "link": "https://expressjs.com",
+    "icon": "🚂",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "NestJS",
+    "description": "Progressive Node.js framework for building efficient, scalable, enterprise-grade server-side applications using TypeScript and modular dependency-injection architecture. Widely adopted across the modern web development ecosystem.",
+    "link": "https://nestjs.com",
+    "icon": "🪺",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Django",
+    "description": "High-level Python web framework that encourages rapid development and clean, pragmatic design by handling much of the web infrastructure burden.",
+    "link": "https://www.djangoproject.com",
+    "icon": "🐍",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Flask",
+    "description": "Lightweight Python WSGI web framework designed to make getting started quick and easy while remaining flexible enough for complex applications.",
+    "link": "https://flask.palletsprojects.com",
+    "icon": "🧪",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "FastAPI",
+    "description": "Modern, high-performance Python web framework for building APIs with automatic interactive documentation, type hints, and async support out of the box.",
+    "link": "https://fastapi.tiangolo.com",
+    "icon": "⚡",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Ruby on Rails",
+    "description": "Opinionated full-stack web framework for Ruby that emphasizes convention over configuration, accelerating development of database-backed web applications. Widely adopted across the modern web development ecosystem.",
+    "link": "https://rubyonrails.org",
+    "icon": "💎",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Laravel",
+    "description": "Elegant PHP web framework with expressive syntax that makes common tasks like routing, authentication, queues, and caching painless to implement.",
+    "link": "https://laravel.com",
+    "icon": "🎯",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Spring",
+    "description": "Comprehensive Java framework providing infrastructure support for developing robust, enterprise-grade applications with dependency injection and modular components. Widely adopted across the modern web development ecosystem.",
+    "link": "https://spring.io",
+    "icon": "🌱",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Tailwind CSS",
+    "description": "Utility-first CSS framework that lets developers rapidly build custom designs directly in markup without writing traditional component stylesheets. Widely adopted across the modern web development ecosystem.",
+    "link": "https://tailwindcss.com",
+    "icon": "💨",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "Bootstrap",
+    "description": "Popular open-source CSS framework providing prebuilt components, responsive grid, and JavaScript plugins for quickly building responsive websites. Widely adopted across the modern web development ecosystem.",
+    "link": "https://getbootstrap.com",
+    "icon": "🅱️",
+    "category": "Frameworks & Libraries"
+  },
+  {
+    "name": "npm",
+    "description": "Default package manager for the Node.js runtime hosting the world's largest software registry with millions of reusable JavaScript packages. Essential tooling for developers managing project dependencies daily.",
+    "link": "https://www.npmjs.com",
+    "icon": "📦",
+    "category": "Package Managers"
+  },
+  {
+    "name": "Yarn",
+    "description": "Fast, reliable, and secure JavaScript package manager offering workspaces, deterministic installs, and offline caching as an alternative to npm. Essential tooling for developers managing project dependencies daily.",
+    "link": "https://yarnpkg.com",
+    "icon": "🧶",
+    "category": "Package Managers"
+  },
+  {
+    "name": "pnpm",
+    "description": "Fast, disk-space-efficient JavaScript package manager that uses a content-addressable store to share dependencies across projects and avoid duplication. Essential tooling for developers managing project dependencies daily.",
+    "link": "https://pnpm.io",
+    "icon": "📚",
+    "category": "Package Managers"
+  },
+  {
+    "name": "Bun",
+    "description": "All-in-one JavaScript runtime and toolkit with a fast package manager, bundler, test runner, and Node.js-compatible runtime written in Zig. Essential tooling for developers managing project dependencies daily.",
+    "link": "https://bun.sh",
+    "icon": "🥟",
+    "category": "Package Managers"
+  },
+  {
+    "name": "pip",
+    "description": "Standard package installer for Python, used to install and manage software packages from the Python Package Index and other indexes.",
+    "link": "https://pip.pypa.io",
+    "icon": "🐍",
+    "category": "Package Managers"
+  },
+  {
+    "name": "Poetry",
+    "description": "Modern Python dependency management and packaging tool that handles virtual environments, lockfiles, and publishing with a single intuitive command line.",
+    "link": "https://python-poetry.org",
+    "icon": "📜",
+    "category": "Package Managers"
+  },
+  {
+    "name": "Cargo",
+    "description": "Rust's official package manager and build tool that downloads dependencies, compiles packages, and uploads crates to the central registry. Essential tooling for developers managing project dependencies daily.",
+    "link": "https://doc.rust-lang.org/cargo",
+    "icon": "🦀",
+    "category": "Package Managers"
+  },
+  {
+    "name": "Composer",
+    "description": "Dependency manager for PHP allowing developers to declare project libraries and have them installed and autoloaded in a standardized way.",
+    "link": "https://getcomposer.org",
+    "icon": "🎼",
+    "category": "Package Managers"
+  },
+  {
+    "name": "Homebrew",
+    "description": "Free and open-source software package management system that simplifies installing software on macOS and Linux from the command line. Essential tooling for developers managing project dependencies daily.",
+    "link": "https://brew.sh",
+    "icon": "🍺",
+    "category": "Package Managers"
+  },
+  {
+    "name": "RubyGems",
+    "description": "Standard package manager for the Ruby programming language providing a standard format for distributing Ruby libraries called gems. Essential tooling for developers managing project dependencies daily.",
+    "link": "https://rubygems.org",
+    "icon": "💍",
+    "category": "Package Managers"
+  },
+  {
+    "name": "Datadog",
+    "description": "Cloud monitoring as a service platform that brings together metrics, traces, and logs to provide full-stack observability for modern applications.",
+    "link": "https://www.datadoghq.com",
+    "icon": "🐶",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Sentry",
+    "description": "Application performance monitoring and error tracking platform helping developers diagnose, fix, and optimize the performance of their code in production.",
+    "link": "https://sentry.io",
+    "icon": "🛡️",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "New Relic",
+    "description": "Observability platform built to help engineers create more perfect software through real-time metrics, traces, logs, and AI-assisted incident response. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://newrelic.com",
+    "icon": "📊",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Grafana",
+    "description": "Open-source analytics and interactive visualization platform that lets teams query, visualize, and alert on metrics from many data sources. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://grafana.com",
+    "icon": "📈",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Prometheus",
+    "description": "Open-source systems monitoring and alerting toolkit originally built at SoundCloud, designed for reliability and powerful multi-dimensional time series data. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://prometheus.io",
+    "icon": "🔥",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "PostHog",
+    "description": "Open-source product analytics platform offering session replay, feature flags, A/B testing, and event tracking for understanding user behavior. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://posthog.com",
+    "icon": "🦔",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Mixpanel",
+    "description": "Event-based product analytics platform that helps companies understand user behavior, build engagement reports, and run experiments with detailed segmentation. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://mixpanel.com",
+    "icon": "📉",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Plausible",
+    "description": "Lightweight, open-source, privacy-friendly web analytics alternative to Google Analytics that does not use cookies or collect personal data. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://plausible.io",
+    "icon": "📊",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Google Analytics",
+    "description": "Web analytics service offered by Google that tracks and reports website traffic, user behavior, and conversion data to inform marketing decisions.",
+    "link": "https://analytics.google.com",
+    "icon": "📈",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "LogRocket",
+    "description": "Frontend monitoring and product analytics tool combining session replay, performance monitoring, and error tracking to help teams improve user experience.",
+    "link": "https://logrocket.com",
+    "icon": "🚀",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Hotjar",
+    "description": "Behavior analytics tool offering heatmaps, session recordings, surveys, and feedback widgets to help product teams understand how users interact. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://www.hotjar.com",
+    "icon": "🔥",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Amplitude",
+    "description": "Digital analytics platform giving product, growth, and marketing teams deep insight into user behavior across web and mobile applications. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://amplitude.com",
+    "icon": "📡",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Splunk",
+    "description": "Data platform that searches, monitors, analyzes, and visualizes machine-generated data from websites, applications, sensors, and devices in real time. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://www.splunk.com",
+    "icon": "💚",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Better Stack",
+    "description": "Modern observability platform combining log management, uptime monitoring, status pages, and incident response into a single beautiful interface. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://betterstack.com",
+    "icon": "📚",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Pingdom",
+    "description": "Website performance and availability monitoring service from SolarWinds that alerts teams about downtime and tracks page speed metrics globally. Trusted by engineering teams keeping production systems healthy.",
+    "link": "https://www.pingdom.com",
+    "icon": "📡",
+    "category": "Monitoring & Analytics"
+  },
+  {
+    "name": "Snyk",
+    "description": "Developer security platform helping teams find, prioritize, and fix vulnerabilities in code, open-source dependencies, containers, and infrastructure as code. Trusted by security teams protecting modern applications globally.",
+    "link": "https://snyk.io",
+    "icon": "🐺",
+    "category": "Security"
+  },
+  {
+    "name": "1Password",
+    "description": "Password manager and secrets management platform helping individuals and teams securely store, generate, and share credentials across devices. Trusted by security teams protecting modern applications globally.",
+    "link": "https://1password.com",
+    "icon": "🔐",
+    "category": "Security"
+  },
+  {
+    "name": "Bitwarden",
+    "description": "Open-source password manager offering secure credential storage, sharing, and end-to-end encryption with free and enterprise plans across all platforms. Trusted by security teams protecting modern applications globally.",
+    "link": "https://bitwarden.com",
+    "icon": "🛡️",
+    "category": "Security"
+  },
+  {
+    "name": "HashiCorp Vault",
+    "description": "Identity-based secrets and encryption management system providing secure storage, dynamic credentials, and tightly controlled access to tokens, keys, and certificates.",
+    "link": "https://www.vaultproject.io",
+    "icon": "🔒",
+    "category": "Security"
+  },
+  {
+    "name": "Auth0",
+    "description": "Identity-as-a-service platform providing authentication, authorization, and user management for applications with social, enterprise, and passwordless login support. Trusted by security teams protecting modern applications globally.",
+    "link": "https://auth0.com",
+    "icon": "🔑",
+    "category": "Security"
+  },
+  {
+    "name": "Clerk",
+    "description": "Complete user management platform offering pre-built authentication components, session management, and user profiles designed for modern React and Next.js apps.",
+    "link": "https://clerk.com",
+    "icon": "👤",
+    "category": "Security"
+  },
+  {
+    "name": "OWASP",
+    "description": "Open Worldwide Application Security Project producing free tools, documentation, and the famous Top 10 list to improve software security globally.",
+    "link": "https://owasp.org",
+    "icon": "🛡️",
+    "category": "Security"
+  },
+  {
+    "name": "Burp Suite",
+    "description": "Industry-standard web vulnerability scanner and penetration testing toolkit by PortSwigger used by security professionals to assess web application security. Trusted by security teams protecting modern applications globally.",
+    "link": "https://portswigger.net/burp",
+    "icon": "🐛",
+    "category": "Security"
+  },
+  {
+    "name": "Cloudflare",
+    "description": "Global network providing security, performance, and reliability services including DDoS protection, web application firewall, DNS, and zero-trust access. Trusted by security teams protecting modern applications globally.",
+    "link": "https://www.cloudflare.com",
+    "icon": "☁️",
+    "category": "Security"
+  },
+  {
+    "name": "Let's Encrypt",
+    "description": "Free, automated, and open certificate authority providing TLS/SSL certificates to enable HTTPS on websites worldwide for improved internet security. Trusted by security teams protecting modern applications globally.",
+    "link": "https://letsencrypt.org",
+    "icon": "🔏",
+    "category": "Security"
+  },
+  {
+    "name": "Slack",
+    "description": "Channel-based messaging platform that brings team communication, file sharing, and integrations together in one searchable workspace for organizations. Loved by distributed teams collaborating across time zones daily.",
+    "link": "https://slack.com",
+    "icon": "💬",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Discord",
+    "description": "Voice, video, and text communication platform popular with developer communities, gamers, and teams for real-time chat and persistent server channels.",
+    "link": "https://discord.com",
+    "icon": "🎮",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Microsoft Teams",
+    "description": "Collaboration and communication hub combining chat, video meetings, file storage, and app integration as part of Microsoft 365 for organizations.",
+    "link": "https://www.microsoft.com/microsoft-teams",
+    "icon": "💼",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Zoom",
+    "description": "Video conferencing platform offering reliable cloud meetings, webinars, phone, and chat with broad device support used by businesses and schools globally.",
+    "link": "https://zoom.us",
+    "icon": "📹",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Google Workspace",
+    "description": "Suite of cloud-based productivity and collaboration tools including Gmail, Docs, Drive, Calendar, and Meet for organizations of every size. Loved by distributed teams collaborating across time zones daily.",
+    "link": "https://workspace.google.com",
+    "icon": "📂",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Miro",
+    "description": "Online collaborative whiteboard platform empowering distributed teams to brainstorm, plan, and visualize ideas together with templates and integrations. Loved by distributed teams collaborating across time zones daily.",
+    "link": "https://miro.com",
+    "icon": "🖼️",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Loom",
+    "description": "Video messaging tool letting users quickly record screen, voice, and face to share asynchronous updates with teammates instead of meetings.",
+    "link": "https://www.loom.com",
+    "icon": "🎥",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Confluence",
+    "description": "Atlassian's team workspace for creating, organizing, and discussing documentation, meeting notes, and project plans alongside Jira and Trello integrations. Loved by distributed teams collaborating across time zones daily.",
+    "link": "https://www.atlassian.com/software/confluence",
+    "icon": "📘",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Basecamp",
+    "description": "All-in-one project management and team communication tool combining to-dos, messages, schedules, documents, and group chat in a simple interface. Loved by distributed teams collaborating across time zones daily.",
+    "link": "https://basecamp.com",
+    "icon": "🏕️",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Around",
+    "description": "Video calling app designed for remote collaboration with floating heads, intelligent audio, and lightweight interface that keeps focus on your work.",
+    "link": "https://www.around.co",
+    "icon": "🎙️",
+    "category": "Collaboration"
+  },
+  {
+    "name": "freeCodeCamp",
+    "description": "Nonprofit community offering thousands of free coding tutorials, certifications, and projects covering web development, data science, and machine learning. Loved by self-taught developers and engineering students worldwide.",
+    "link": "https://www.freecodecamp.org",
+    "icon": "🔥",
+    "category": "Learning Platforms"
+  },
+  {
+    "name": "MDN Web Docs",
+    "description": "Mozilla's authoritative documentation for web standards including HTML, CSS, JavaScript, and browser APIs, used daily by web developers worldwide. Loved by self-taught developers and engineering students worldwide.",
+    "link": "https://developer.mozilla.org",
+    "icon": "📖",
+    "category": "Learning Platforms"
+  },
+  {
+    "name": "Stack Overflow",
+    "description": "Largest online community for programmers offering a public Q&A platform where developers ask, answer, and find technical solutions every day.",
+    "link": "https://stackoverflow.com",
+    "icon": "📚",
+    "category": "Learning Platforms"
+  },
+  {
+    "name": "Udemy",
+    "description": "Global online learning marketplace offering thousands of on-demand courses on programming, design, business, and personal development taught by experts. Loved by self-taught developers and engineering students worldwide.",
+    "link": "https://www.udemy.com",
+    "icon": "🎓",
+    "category": "Learning Platforms"
+  },
+  {
+    "name": "Coursera",
+    "description": "Online learning platform partnering with universities and companies to offer courses, professional certificates, and degrees in technology and other fields.",
+    "link": "https://www.coursera.org",
+    "icon": "🏫",
+    "category": "Learning Platforms"
+  },
+  {
+    "name": "edX",
+    "description": "Online learning platform founded by Harvard and MIT offering university-level courses, professional certificates, and MicroMasters across many disciplines. Loved by self-taught developers and engineering students worldwide.",
+    "link": "https://www.edx.org",
+    "icon": "🎒",
+    "category": "Learning Platforms"
+  },
+  {
+    "name": "Pluralsight",
+    "description": "Technology skills platform offering expert-authored courses, skill assessments, and learning paths for software developers, IT operations, and security professionals. Loved by self-taught developers and engineering students worldwide.",
+    "link": "https://www.pluralsight.com",
+    "icon": "📺",
+    "category": "Learning Platforms"
+  },
+  {
+    "name": "LeetCode",
+    "description": "Online platform with thousands of coding challenges helping developers prepare for technical interviews and sharpen algorithm and data structure skills.",
+    "link": "https://leetcode.com",
+    "icon": "🧮",
+    "category": "Learning Platforms"
+  },
+  {
+    "name": "Frontend Masters",
+    "description": "In-depth video courses on advanced frontend, full-stack, and computer science topics taught by world-class instructors from top tech companies. Loved by self-taught developers and engineering students worldwide.",
+    "link": "https://frontendmasters.com",
+    "icon": "🎯",
+    "category": "Learning Platforms"
+  },
+  {
+    "name": "Codecademy",
+    "description": "Interactive online learning platform offering free and paid coding lessons in many programming languages through hands-on exercises and projects. Loved by self-taught developers and engineering students worldwide.",
+    "link": "https://www.codecademy.com",
+    "icon": "💡",
+    "category": "Learning Platforms"
+  }
+]
